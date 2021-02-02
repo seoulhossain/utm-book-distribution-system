@@ -7,4 +7,4 @@ here we have used-
 - JQuery
 - JavaScript
 - PHP Laravel
-- My SQl database
+- MySQl database
